@@ -8,7 +8,7 @@ Regular fizzbuzz with the addition of a lightyear (in meters)
 
 
 
-## Sample output:
+## Sample output (spoilers):
 
 ```
 Buzz
