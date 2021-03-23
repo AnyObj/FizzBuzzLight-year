@@ -1,5 +1,5 @@
 # FizzBuzzLight-year
-Regular fizzbuzz with the addition of a lightyear (in meters)
+Regular fizzbuzz with the addition of light-years (in meters)
 
 *You already know what it does. - IGN*
 
